@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 10px 10px;
+    box-sizing: border-box;
+    font-size: 1.5rem;
+    color: rgb(31, 31, 31);
+}
+
+body{
+    background-color: black;
+}
+
+.input{
+    display: block;
+    background-color: aliceblue;
+}
+
+
+.submit-button{
+     color: black;
+     background: goldenrod;
+}
+
+#animate{
+    display: none;
+}
+
+form{
+    border-radius: 100%;
+    position: relative;
+    left: 999px;
+    border: 4px solid black;
+    background: radial-gradient(red,blue);
+    margin: auto;
+    width: 80%;
+    height: 80%;
+    
+}
+
+p{
+    margin-top: 100px;
+}
+
+p, li {
+    font-size: 1rem;
+    color: burlywood;
+}
